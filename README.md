@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [cyrilkfouri.com](cyrilkfouri.com)
 
-- 📫 How to reach me **cyrilkfouri@gmail.co**
+- 📫 How to reach me **cyrilkfouri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
