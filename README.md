@@ -1,8 +1,6 @@
 <h1 align="center">Cyril Kfouri</h1>
 <h3 align="center">5th-year engineering student, passionate about mathematics, AI, Finance and research.</h3>
 
-- 🔭 I’m currently working on [Dynamic Hedging Strategy](https://github.com/roblastar/PFE_ECE_Dynamic_Hedging)
-
 - 👨‍💻 All of my projects are available at [cyrilkfouri.com](cyrilkfouri.com)
 
 - 📫 How to reach me **cyrilkfouri@gmail.com**
